@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Graph-Based Neural Network Outage Probability Model
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Kenneth McDonald
+    email: kenneth.mcdonald@ucf.edu
+    affiliation: University of Central Florida
+  - given-names: Zhihua Qu
+    email: qu@ucf.edu
+    affiliation: University of Central Florida
+repository-code: 'https://github.com/kvmcd123/UCF_RACERS_Outage_GNN.git'
+abstract: >-
+  A graph-based neural network model for finding the
+  probability of outage on a distribution network's topology
+  due to an extreme weather event.
+keywords:
+  - outage
+  - topology
+  - graph neural network
+  - extreme weather
